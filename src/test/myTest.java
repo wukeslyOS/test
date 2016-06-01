@@ -6,7 +6,6 @@ public class myTest {
 		// TODO 自动生成的方法存根
 		System.out.println("this is a test!");
 		
-		//////////////////
 	}
 
 }
